@@ -6,3 +6,4 @@
 |:------------|:-----|:----------|
 |Rectangular Frame| [Link](https://github.com/JorgeRodz/Coding_Exercise/tree/master/Rectangular_frame) | Ruby |
 |Digit Fourth Powers | [Link](https://github.com/JorgeRodz/Coding_Exercise/tree/master/Digit_Fourth_Powers) |Ruby |
+|FizzBuzz | [Link](https://github.com/JorgeRodz/Coding_Exercise/tree/master/Fizz_Buzz) |Ruby |
